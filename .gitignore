@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+stats/
+
+CMakeFiles
+CMakeCache.txt
+*.cmake
+Makefile
+
+*.gch
+
+backtrack
+backtrack_special
+backtrack_change
