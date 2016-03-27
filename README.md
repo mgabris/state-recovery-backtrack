@@ -6,7 +6,10 @@ Details about attacks can be found in our [paper -- TODO link]()
 ## Python code
 Python implementation contains state-recovery of cipher Spritz, used for testing possible optimizations. 
 
-It contains (apart from other) simple backtracktrack as well as change order and prefix check optimizations mentioned in paper.
+It contains (apart from other) simple backtracktrack as well as change order and prefix check optimizations mentioned in the paper.
+
+#### Note
+As code in python was used to experiment with different optimizations, we recommend to look at cleaner C++ code first.
 
 ## C++ code
 C++ implementation is for both RC4 and Spritz. 
