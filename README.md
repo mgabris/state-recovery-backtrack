@@ -1,7 +1,7 @@
 # state-recovery-backtrack
 Implementation of state-recovery backtrack attacks for ciphers RC4 and Spritz.
 
-Details about attacks can be found in our [paper -- TODO link]()
+Details about attacks can be found in our [paper](https://eprint.iacr.org/2016/337)
 
 ## Python code
 Python implementation contains state-recovery of cipher Spritz, used for testing possible optimizations. 
