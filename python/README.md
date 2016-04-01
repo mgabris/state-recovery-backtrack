@@ -2,7 +2,7 @@
 
 This directory contains python implementation of state recovery backtrack for Spritz.
 
-# Usage
+## Usage
 
 ### Generate states
 Random states for both RC4 and Sprtiz backtracks are generated with script [generate.py](./generate.py). All options can be printed invoking this script with switch ```-h```.
